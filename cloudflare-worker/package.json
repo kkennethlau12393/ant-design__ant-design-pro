@@ -8,7 +8,6 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "china-division": "^2.7.0",
     "hono": "^4.6.0"
   },
   "devDependencies": {
